@@ -44,7 +44,9 @@ heroku create my-dash-app
 # Add all files to git
 git add .
 git commit -m "init commit"
-
+```
+Deploy and run
+```commandline
 # Deploy code to Heroku
 git push heroku master
 
